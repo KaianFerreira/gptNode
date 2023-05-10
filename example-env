@@ -1,0 +1,14 @@
+# API
+ENV=dev
+VERSION=1.0.0
+PORT=3000
+API_DATA=../data
+
+#folders
+FOLDER_DATA=../data
+
+# URLS
+URL_API=http://localhost:3000
+
+# OPENAI
+OPENAI_API_KEY=...
