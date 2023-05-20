@@ -1,0 +1,5 @@
+{
+  "name": "gptNode",
+  "script": "node server.js",
+  "autorestart": true
+}

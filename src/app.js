@@ -41,4 +41,4 @@ router.use('/chat', chat)
 app.use('/data', express.static(path.join(process.cwd(), process.env.FOLDER_DATA)))
 app.use('/', router)
 
-module.exports = app
+export default app
